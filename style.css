@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Balsamiq Sans',cursive;
+}
+body {
+    font-family: 'Balsamiq Sans', cursive;
+}
+#mainContent {
+    background-color: #dddddd;
+}
+li.borderless {
+    border-top:none;
+}
